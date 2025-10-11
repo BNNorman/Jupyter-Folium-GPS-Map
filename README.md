@@ -5,6 +5,8 @@ JPG images must contain EXIF GPSInfo fields
 
 If GPSInfo is missing the image is ignored.
 
+NOTE: I got the GPS convertor code (dms2dd) from somewhere on the web but it placed the markers in the North sea. That part is commented out in dms2dd(). 
+
 I used this to find out where I took the photos on my hol to Norway back in May 2025 - getting old - memory fades!
 
 set your start location [lat,lon]
